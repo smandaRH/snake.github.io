@@ -1,1 +1,7 @@
-# snake.github.io
+# SNAKE GAME
+
+## Tech stacks
+- HTML
+- CSS
+- JAVASCRIPT
+  
